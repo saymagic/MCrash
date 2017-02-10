@@ -1,3 +1,5 @@
+[![Build Status](https://travis-ci.org/saymagic/MCrash.svg?branch=master)](https://travis-ci.org/saymagic/MCrash)
+
 ## Introduction
 
 `MCrash` is a flexible and practical library used for collecting the crash data.
